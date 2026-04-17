@@ -1,5 +1,5 @@
 1. Landing Page Layout
- - description: Visual recreation of a website landing page in HTML/CSS
+ - description: Visual recreation of a website landing page in HTML/CSS with flex boxes
  - Repo link: https://github.com/MilesRigby/odin-landing-page
  - Live view: https://milesrigby.github.io/odin-landing-page/
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 4. Admin Dashboard Layout
- - description: A recreation of a slightly more complex layout in HTML/CSS
+ - description: A recreation of a slightly more complex layout in HTML/CSS using CSS grid
  - Repo link: https://github.com/MilesRigby/odin-admin-dashboard
  - Live view: https://milesrigby.github.io/odin-admin-dashboard/
 <br>
