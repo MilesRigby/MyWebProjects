@@ -63,7 +63,7 @@
 <br>
 
 11. Jest TDD Practice
- - description: a practice project to learn how to use the Jest testing framework for Test Driven Development, writing basic string manipulation functions and mathematical operations
+ - description: a practice project to learn how to use the Jest testing framework for Test Driven Development, writing basic string manipulation functions and mathematical operations with a data-oriented test suite.
  - Repo link: https://github.com/MilesRigby/odin-jest-test/tree/main
  - Live view: NA
 <br>
