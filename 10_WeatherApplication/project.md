@@ -28,8 +28,7 @@ An example of the syntax from this project is shown below:
 
 Standard HTML:
 
-<br>
-
+```
 <div id = "daily-weather-disp", class = "horizontal-scroll-window">
     <div class = "scrollview-left scrollview-button">
         <p>&lt;</p>
@@ -40,13 +39,12 @@ Standard HTML:
 
     <div class = "scrollview-items"></div>
 </div>
-
+```
 <br>
 
 My object syntax:
 
-<br>
-
+```
 {"div": { attributes: {"id": "daily-weather-disp", "className": "horizontal-scroll-window"},children: [
     { "div": { attributes: {"className": "scrollview-left scrollview-button"}, children: [
         { "p": { attributes: {"innerText": "<"}, children: []}}
@@ -57,6 +55,7 @@ My object syntax:
 
     { "div": { attributes: {"className": "scrollview-items"}, children: []}}
 ]}};
+```
 
 <br>
 
