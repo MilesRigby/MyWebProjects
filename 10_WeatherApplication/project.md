@@ -61,6 +61,6 @@ My object syntax:
 
 <br>
 
-GitHub repository: https://github.com/MilesRigby/odin-weather-app/blob/main/src/styles.css
+GitHub repository: https://github.com/MilesRigby/odin-weather-app/
 
 GitHub pages link: https://milesrigby.github.io/odin-weather-app/
