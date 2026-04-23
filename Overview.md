@@ -57,7 +57,7 @@
 <br>
 
 10. Weather Application
- - description: Allows a user to search for weather in a town/city, and receive daily and hourly weather data for that region
+ - description: Allows a user to search for weather in a town/city, and receive daily and hourly weather data for that region using an API.
  - Repo link: https://github.com/MilesRigby/odin-weather-app/tree/main
  - Live view: https://milesrigby.github.io/odin-weather-app/
 <br>
