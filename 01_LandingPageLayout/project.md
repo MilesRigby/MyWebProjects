@@ -1,4 +1,4 @@
-Landing Page Layout
+## Landing Page Layout
 
 <br>
 

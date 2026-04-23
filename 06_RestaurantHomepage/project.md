@@ -1,4 +1,4 @@
-Restaurant Homepage
+## Restaurant Homepage
 
 <br>
 

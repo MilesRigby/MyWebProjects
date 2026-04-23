@@ -1,4 +1,4 @@
-Weather Web App
+## Weather Web App
 
 <br>
 
@@ -12,9 +12,11 @@ src/Pages/weatherDisp/schema.js defines the data that is displayed on each of th
 
 I have also used a function to define the scale of the scrolling windows, which defaults to 0.45rem, but grows or shrinks to match particularly narrow or wide screens. This means that for arbitrarily small or large screen sizes, the number of days and hours that are displayed on-screen at a given time is roughly clamped between two values, e.g. 2 and 7 for daily data. This allows the UI to work on almost any size screen, though while useable does look slightly clunky on mobile.
 
+daily.png and hourly.png show the site with just the daily weather displayed, and after clicking on of the days (26/04/2026) to display the hourly data, with each view scrolled a bit to the right.
+
 <br>
 
-Detatched DOM Tree Construction.
+## Detatched DOM Tree Construction.
 
 A significant improvement I made in this project over previous ones is in the simplicity of creating DOM content in JavaScript. Writing out the creation of each object and adding each of their attributes and children in turn is a long-winded process and often makes debugging difficult. I previously solved this by writing a UI element into HTML.template, adding styles, and seeing how it looked. I would debug during this process and then rewrite it line-by-line into JavaScript. I wanted to create a way to create these elements in javaScript in a way that read more like natural HTML.
 

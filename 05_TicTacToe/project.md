@@ -1,4 +1,4 @@
-Tic Tac Toe/Naughts & Crosses
+## Tic Tac Toe/Naughts & Crosses
 
 <br>
 

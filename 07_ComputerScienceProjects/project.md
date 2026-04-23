@@ -1,4 +1,4 @@
-Computer Science Projects
+## Computer Science Projects
 
 <br>
 
