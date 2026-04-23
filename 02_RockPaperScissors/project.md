@@ -1,4 +1,4 @@
-Rock Paper Scissors Application
+## Rock Paper Scissors Application
 
 <br>
 
